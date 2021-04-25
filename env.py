@@ -15,3 +15,7 @@ def print_env():
 if __name__ == "__main__":
     print_env ()
 
+
+# STRIKR commentary
+# Prints environment variables
+
